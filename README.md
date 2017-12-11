@@ -2,6 +2,8 @@
 
 Simple useful implementations and code skeletons.
 
+- http://selenium-python.readthedocs.io/index.html
+
 ## Python Installation
 
 - `pip install selenium`
